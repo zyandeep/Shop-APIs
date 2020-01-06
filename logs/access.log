@@ -1,0 +1,4 @@
+[0mGET /api/products [36m304 [0m4.236 ms - -[0m
+GET /api/orders 304 - - 3.889 ms
+::1 - - [31/Dec/2019:14:34:48 +0000] "POST /api/orders HTTP/1.1" 201 38
+::1 - DELETE /api/orders HTTP/1.1 404 152 - 6.727 ms
